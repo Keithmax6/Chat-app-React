@@ -38,6 +38,7 @@ const Auth = () => {
     //   phoneNumber,
     //   avatarURL,
     // };
+    // const git = 'git pushing'
 
     // const {
     //   data: { token, userId, hashedPassword, fullName },
